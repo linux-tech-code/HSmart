@@ -1,4 +1,6 @@
-# HSmart
+# HSmart 
+# Tác giả: Vũ Hoàng Thương
+# Innovation non stop
 Hệ thống cảnh báo dịch bệnh thông minh
 Các module chức năng cần thiết kế, xây dựng
 -	Phân hệ thu thập dữ liệu;
